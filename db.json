@@ -13,6 +13,22 @@
       "id": 3
     }
   ],
-  "albums": [{ "id": 10, "name": "Hiking Trip", "userId": 1 }],
+  "albums": [
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Hiking Trip"
+    },
+    {
+      "id": "162a",
+      "userId": 1,
+      "title": "Licensed Cotton Table"
+    },
+    {
+      "id": "27d1",
+      "userId": 2,
+      "title": "Handmade Fresh Chips"
+    }
+  ],
   "photos": []
 }
