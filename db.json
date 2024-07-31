@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Myra",
+      "id": 1
     },
     {
-      "id": "3429",
-      "name": "Constance Ward"
+      "name": "Constance Ward",
+      "id": 2
     },
     {
-      "id": "17d5",
-      "name": "Kevin Ruecker"
+      "name": "Kevin Ruecker",
+      "id": 3
     }
   ],
-  "albums": [],
+  "albums": [{ "id": 10, "name": "Hiking Trip", "userId": 1 }],
   "photos": []
 }
